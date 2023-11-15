@@ -1,0 +1,13 @@
+name: wes_tr
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - biopython
+  - pip
+  - python
+  - fastqc
+  - trimmomatic
+  - bwa-mem2
+  - samtools
+  - bedtools
